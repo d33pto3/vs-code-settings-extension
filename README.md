@@ -2,12 +2,12 @@
 
 <!-- NOTES -->
 
-##Note
+## Note
 
 Feel free to use it in your settings.json file. Just add the extensions that I have used. Keep learning and happy coding (;>}
 
 <!-- CONTACT -->
 
-##Contact
+## Contact
 
 Rakin Farhan - [ce17026@mbstu.ac.bd](mailto:ce17026@mbstu.ac.bd)
